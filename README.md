@@ -47,6 +47,9 @@ After conducting the risk-reuturn analysis, the S&P 500 appears to outperform al
 ![](https://github.com/ThomasBrierton/Risk_Return_Analysis/blob/main/Photos/Whale_Returns_Volatility.png)
 
 ![](https://github.com/ThomasBrierton/Risk_Return_Analysis/blob/main/Photos/21-Day_Rolling_STD_Whale.png)
+
+![](https://github.com/ThomasBrierton/Risk_Return_Analysis/blob/main/Photos/Sharpe_Ratios.png)
+
 ---
 
 ## Contributors
